@@ -55,9 +55,9 @@ social:
   - service: github
     username: lindadi
     link: https://github.com/linda-di
-  - service: linkedin
-    username: lindadi
-    link: https://www.linkedin.com/in/yixuandi-linda/
+ # - service: linkedin
+ #   username: lindadi
+ #   link: https://www.linkedin.com/in/yixuandi-linda/
 
 # Plugins
 gems:
