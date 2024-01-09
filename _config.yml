@@ -24,8 +24,8 @@ sass:
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: wemake.services
-email: mail@sobolevn.me
+your_name: Linda
+email: ydi@uwaterloo.ca
 
 navigation:
   - text: Home
@@ -53,11 +53,11 @@ projects:
 
 social:
   - service: github
-    username: sobolevn
-    link: https://github.com/sobolevn
-  - service: twitter
-    username: sobolevn
-    link: https://twitter.com/sobolevn
+    username: lindadi
+    link: https://github.com/linda-di
+  - service: linkedin
+    username: lindadi
+    link: https://www.linkedin.com/in/yixuandi-linda/
 
 # Plugins
 gems:
